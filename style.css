@@ -1,0 +1,7 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+canvas {
+    border: 5px solid rgb(173, 196, 216);
+}
